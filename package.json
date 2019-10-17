@@ -1,0 +1,39 @@
+{
+  "name": "editor-demo-react",
+  "version": "0.0.1",
+  "description": "This app serves the purpose of demo for @mansoorkamthewala/jsoneditor",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansoorkamthewala/editor-demo-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mansoorkamthewala/editor-demo-react/issues"
+  },
+  "homepage": "https://github.com/mansoorkamthewala/editor-demo-react#readme",
+  "dependencies": {
+    "@mansoorkamthewala/jsoneditor": "^1.0.2",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-scripts": "^3.2.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
